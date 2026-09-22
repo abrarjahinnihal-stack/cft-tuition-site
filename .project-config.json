@@ -1,0 +1,34 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "https://7f0548f6b28a1758d9bf7be630d36cb4.artifacts.cloudflare.net/git/prod/PUbocsJdTDEfiKHpJGCATA.git",
+    "expiration": "2026-09-16T13:41:17.606Z",
+    "token": "art_v2_x_3306871cc338b65d0819c2330a198bd850b4d12d?expires=1789566077",
+    "backend": "GIT_BACKEND_ARTIFACTS"
+  },
+  "name": "tuition-nonprofit-site",
+  "path": "/home/ubuntu/tuition-nonprofit-site",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "JHFJS5jtj2AYkA2y5rsa6b",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "bEsM2GcpqQoZoWtPUcNVqZ",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "Abrar Jahin Nihal",
+    "OWNER_OPEN_ID": "5xH5Xh4Do5e73Pcc885fCN",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "a5e8b59a-fa06-474a-802d-d3c023dfad20",
+    "VITE_APP_ID": "PUbocsJdTDEfiKHpJGCATA",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "Tuition Nonprofit Organization Website",
+    "VITE_FRONTEND_FORGE_API_KEY": "HGNuQSoFriGmzTb5QLQTzb",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
